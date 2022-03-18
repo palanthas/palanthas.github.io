@@ -24,7 +24,7 @@ body {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    box-shadow: 0px 0px 20px black;
+    box-shadow: 0px 0px 10px black;
 }
 
 .button {
