@@ -26,6 +26,6 @@ $("#btn_outlook").click(function() {
     window.open("https://outlook.office.com");
 })
 
-$("#div_add_item").click(function() {
-    window.open("#");
+$("#div_wttr").click(function() {
+    window.open("https://www.wunderground.com/");
 })
