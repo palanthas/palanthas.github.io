@@ -26,6 +26,10 @@ $("#btn_outlook").click(function() {
     window.open("https://outlook.office.com");
 })
 
+$("#btn_omada").click(function() {
+    window.open("https://omada.tplinkcloud.com/");
+})
+
 $("#div_wttr").click(function() {
     window.open("https://www.wunderground.com/");
 })
