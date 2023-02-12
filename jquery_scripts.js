@@ -30,6 +30,10 @@ $("#btn_omada").click(function() {
     window.open("https://omada.tplinkcloud.com/");
 })
 
+$("#btn_homeassistant").click(function() {
+    window.open("http://10.10.0.18:8123");
+})
+
 $("#div_wttr").click(function() {
     window.open("https://www.wunderground.com/");
 })
