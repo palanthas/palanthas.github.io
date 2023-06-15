@@ -14,10 +14,6 @@ $("#btn_google").click(function() {
     window.open("https://www.google.com");
 })
 
-$("#btn_selfhosted").click(function() {
-    window.open("https://www.reddit.com/r/selfhosted/");
-})
-
 $("#btn_youtube").click(function() {
     window.open("https://www.youtube.com");
 })
