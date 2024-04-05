@@ -33,3 +33,7 @@ $("#btn_homeassistant").click(function() {
 $("#div_wttr").click(function() {
     window.open("https://www.wunderground.com/");
 })
+
+$("#btn_chatgpt").click(function() {
+    window.open("https://chat.openai.com/");
+})
