@@ -27,7 +27,7 @@ $("#btn_omada").click(function() {
 })
 
 $("#btn_homeassistant").click(function() {
-    window.open("http://10.10.0.18:8123");
+    window.open("http://homeassistant:8123");
 })
 
 $("#div_wttr").click(function() {
