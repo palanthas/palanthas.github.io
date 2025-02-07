@@ -37,3 +37,7 @@ $("#div_wttr").click(function() {
 $("#btn_chatgpt").click(function() {
     window.open("https://chat.openai.com/");
 })
+
+$("#btn_hamstudy").click(function() {
+    window.open("https://hamstudy.org/");
+})
